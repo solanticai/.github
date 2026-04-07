@@ -1,24 +1,34 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="Solantic AI" src="assets/banner-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-light.svg">
+  <img alt="Solantic AI" src="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-light.svg" width="100%">
 </picture>
 
+[![Stars](https://img.shields.io/github/stars/solanticai?style=flat-square&color=F59E0B&label=Total%20Stars)](https://github.com/solanticai)
 [![Website](https://img.shields.io/badge/solanticai.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://solanticai.com)
-[![Sponsor](https://img.shields.io/github/sponsors/solanticai?style=flat-square&color=EA4AAA&label=Sponsors)](https://github.com/sponsors/solanticai)
-[![Location](https://img.shields.io/badge/Melbourne%2C_Australia-2563EB?style=flat-square)](https://github.com/solanticai)
+[![Location](https://img.shields.io/badge/Brisbane%2C_Australia-2563EB?style=flat-square)](https://github.com/solanticai)
 
 </div>
 
-## About
-
 Solantic AI builds open-source tools that solve **comprehension debt** — the growing gap between AI-generated code and developer understanding. When AI writes code faster than teams can review it, quality erodes silently. Our tools provide runtime-enforced guardrails that close that gap — not through prompt suggestions, but through deterministic enforcement that actually prevents bad code from landing.
 
-## Thankyou to our Sponsors
+## Packages
 
-[Become a sponsor →](https://github.com/sponsors/solanticai)
+| Package | Description | |
+|---------|-------------|-|
+| [`@solanticai/vguard`](https://www.npmjs.com/package/@solanticai/vguard) | AI coding guardrails framework. Runtime-enforced quality controls for Claude Code, Cursor, Codex, and more. | [![npm](https://img.shields.io/npm/v/@solanticai/vguard?style=flat-square&color=2563EB&label=)](https://www.npmjs.com/package/@solanticai/vguard) [![downloads](https://img.shields.io/npm/dm/@solanticai/vguard?style=flat-square&color=2563EB&label=)](https://www.npmjs.com/package/@solanticai/vguard) |
+
+## Platforms & Applications
+
+| Platform | Description | |
+|----------|-------------|-|
+| [**Lumioh**](https://lumioh.com) | Unified AI-native operations platform. Run your entire business from one system — CRM, projects, contracts, invoicing, and 24+ integrated modules. | [![Status](https://img.shields.io/badge/Live-16A34A?style=flat-square)](https://lumioh.com) |
+| [**VGuard Cloud**](https://vguard.dev) | Analytics dashboard for VGuard. Track guardrail activity, detect convention drift, and monitor AI agent quality across your team. | [![Status](https://img.shields.io/badge/Coming_Soon-F59E0B?style=flat-square)](https://vguard.dev) |
+| [**Business Context Protocol**](https://businesscontextprotocol.com) | Open protocol for passing business context to AI agents — a semantic layer on MCP. | [![Status](https://img.shields.io/badge/Coming_Soon-F59E0B?style=flat-square)](https://businesscontextprotocol.com) |
+
+## Thankyou to our Sponsors | [Become a sponsor →](https://github.com/sponsors/solanticai)
 
 <!-- readme-sponsors-featured --><!-- readme-sponsors-featured -->
 

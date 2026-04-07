@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.npmjs.com)",
+      "WebFetch(domain:registry.npmjs.org)",
+      "Bash(find /c/Development/vibe-guard -name package.json -not -path */node_modules/* -maxdepth 3)",
+      "Bash(find /c/Development -maxdepth 3 -name package.json -not -path */node_modules/*)",
+      "Bash(xargs grep:*)",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//c/Development/SOLANTIC_AI/.github/**)",
+      "WebFetch(domain:lumioh.com)"
+    ]
+  }
+}
