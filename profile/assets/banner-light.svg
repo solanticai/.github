@@ -57,7 +57,7 @@
 
   <!-- Tagline -->
   <text x="600" y="170" text-anchor="middle" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#475569" letter-spacing="3">
-    AI GOVERNANCE &middot; DATA UNIFICATION &middot; TOKEN OPTIMISATION
+    AI GOVERNANCE &#xB7; DATA UNIFICATION &#xB7; TOKEN OPTIMISATION
   </text>
 
   <!-- Accent line -->
