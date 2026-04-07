@@ -1,11 +1,5 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-light.svg">
-  <img alt="Solantic AI" src="https://raw.githubusercontent.com/solanticai/.github/main/profile/assets/banner-light.svg" width="100%">
-</picture>
-
 [![Stars](https://img.shields.io/github/stars/solanticai?style=flat-square&color=F59E0B&label=Total%20Stars)](https://github.com/solanticai)
 [![Website](https://img.shields.io/badge/solanticai.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://solanticai.com)
 [![Location](https://img.shields.io/badge/Brisbane%2C_Australia-2563EB?style=flat-square)](https://github.com/solanticai)
@@ -25,8 +19,8 @@ Solantic AI builds open-source tools that solve **comprehension debt** — the g
 | Platform | Description | |
 |----------|-------------|-|
 | [**Lumioh**](https://lumioh.com) | Unified AI-native operations platform. Run your entire business from one system — CRM, projects, contracts, invoicing, and 24+ integrated modules. | [![Status](https://img.shields.io/badge/Live-16A34A?style=flat-square)](https://lumioh.com) |
-| [**VGuard Cloud**](https://vguard.dev) | Analytics dashboard for VGuard. Track guardrail activity, detect convention drift, and monitor AI agent quality across your team. | [![Status](https://img.shields.io/badge/Coming_Soon-F59E0B?style=flat-square)](https://vguard.dev) |
-| [**Business Context Protocol**](https://businesscontextprotocol.com) | Open protocol for passing business context to AI agents — a semantic layer on MCP. | [![Status](https://img.shields.io/badge/Coming_Soon-F59E0B?style=flat-square)](https://businesscontextprotocol.com) |
+| [**VGuard Cloud**](https://vguard.dev) | Analytics dashboard for VGuard. Track guardrail activity, detect convention drift, and monitor AI agent quality across your team. | [![Status](https://img.shields.io/badge/Live-16A34A?style=flat-square)](https://vguard.dev) |
+| [**Business Context Protocol**](https://businesscontextprotocol.com) | Open protocol for passing business context to AI agents — a semantic layer on MCP. | [![Status](https://img.shields.io/badge/Live-16A34A?style=flat-square)](https://businesscontextprotocol.com) |
 
 ## Thankyou to our Sponsors | [Become a sponsor →](https://github.com/sponsors/solanticai)
 
