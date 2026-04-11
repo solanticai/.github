@@ -1,8 +1,8 @@
 <div align="center">
 
-[![Stars](https://img.shields.io/github/stars/solanticai?style=flat-square&color=F59E0B&label=Total%20Stars)](https://github.com/solanticai)
-[![Website](https://img.shields.io/badge/solanticai.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://solanticai.com)
-[![Location](https://img.shields.io/badge/Brisbane%2C_Australia-2563EB?style=flat-square)](https://github.com/solanticai)
+[![Stars](https://img.shields.io/github/stars/solanticai?style=flat-square&color=F59E0B&label=Total%20Stars)](https://github.com/anthril)
+[![Website](https://img.shields.io/badge/solanticai.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://anthril.com)
+[![Location](https://img.shields.io/badge/Brisbane%2C_Australia-2563EB?style=flat-square)](https://github.com/anthril)
 
 </div>
 
