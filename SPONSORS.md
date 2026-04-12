@@ -1,8 +1,8 @@
 # Sponsors
 
-Thank you to everyone who sponsors Solantic AI's open-source work. Your support funds the development of [VGuard](https://github.com/solanticai/vibe-guard), [ai-cookbooks](https://github.com/solanticai/ai-cookbooks), the [Business Context Protocol](https://github.com/solanticai/business-context-protocol), and more.
+Thank you to everyone who sponsors Anthril's open-source work. Your support funds the development of [VGuard](https://github.com/anthril/vibe-guard), [ai-cookbooks](https://github.com/anthril/ai-cookbooks), the [Business Context Protocol](https://github.com/anthril/business-context-protocol), and more.
 
-[Become a sponsor →](https://github.com/sponsors/solanticai)
+[Become a sponsor →](https://github.com/sponsors/anthril)
 
 ---
 
@@ -28,4 +28,4 @@ Thank you to everyone who sponsors Solantic AI's open-source work. Your support 
 
 ---
 
-_This file is automatically updated by [GitHub Actions](https://github.com/solanticai/.github/actions)._
+_This file is automatically updated by [GitHub Actions](https://github.com/anthril/.github/actions)._

@@ -1,8 +1,8 @@
 # =============================================================================
-# Solantic AI — Sponsor Sync (Org-Level)
+# Anthril — Sponsor Sync (Org-Level)
 # =============================================================================
-# Updates profile/README.md and SPONSORS.md in the solanticai/.github repo.
-# This renders on the github.com/solanticai org profile page.
+# Updates profile/README.md and SPONSORS.md in the anthril/.github repo.
+# This renders on the github.com/anthril org profile page.
 #
 # Setup:
 #   1. Create a PAT with read:user and read:org scopes from the org owner account
