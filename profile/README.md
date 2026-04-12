@@ -1,13 +1,3 @@
-<div align="center">
-
-[![Stars](https://img.shields.io/github/stars/anthril?style=flat-square&color=F59E0B&label=Total%20Stars)](https://github.com/anthril)
-[![Website](https://img.shields.io/badge/anthril.com-2563EB?style=flat-square&logo=safari&logoColor=white)](https://anthril.com)
-[![Location](https://img.shields.io/badge/Brisbane%2C_Australia-2563EB?style=flat-square)](https://github.com/anthril)
-
-</div>
-
-Anthril builds open-source tools that solve **comprehension debt** — the growing gap between AI-generated code and developer understanding. When AI writes code faster than teams can review it, quality erodes silently. Our tools provide runtime-enforced guardrails that close that gap — not through prompt suggestions, but through deterministic enforcement that actually prevents bad code from landing.
-
 ## Packages
 
 | Package | Description | |
